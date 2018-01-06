@@ -1,0 +1,7 @@
+*.sln
+*.suo
+/*.png
+/GJFinal/My\ Project
+/GJFinal/obj
+/GJFinal/bin
+*.vbproj
